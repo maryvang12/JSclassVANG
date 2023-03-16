@@ -1,0 +1,2 @@
+# Week 6 Video 1 my thoughts
+my thought on this is that since i already took your class it gonna be a lot easier for me to submit since im used to using bash on vs code. when using git bash, it seems a bit complicated for me and sometimes i would ran into some issues. 
