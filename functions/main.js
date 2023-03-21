@@ -10,4 +10,4 @@ function doMath (a, b) {
 
 
 const result = doMath(10, 4)
-console.log(`this result was returned from the function ${returnValue}`)
+console.log(`this result was returned from the function ${result}`)
