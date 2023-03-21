@@ -1,9 +1,16 @@
-function myMath (a, b) {
-    let result = a + b
+function doMath (a, b) {
+    let result = a * b
     return result 
-    
+       // console.log(`this is the result ${a - b}`)
+       // console.log(`this is the result ${a + b}`)
+       // console.log(`this is the result ${a / b}`)
+       // console.log(`this is the result ${a * b}`)
 }
 
-const result = myMath (1, 1)
-console.log(result)
+doMoreMath = (a, b) => a * b
+
+
+console.log(doMoreMath (20, 30))
+
+const result = doMath(10, 4)
 
