@@ -1,23 +1,16 @@
-let myName = "59"
-let myAge = 59
-let myHappiness = true
+let petName = "Mona"
+let petAge = 4
+let myDog = true
 let newVar = 'SOMETHING'
 const myConst = 42
-console.log(myAge == myName)
-console.log(myAge === myName)
+console.log(petAge == petName)
 
 let myVar
 console.log(`myVar is typeof ${typeof myVar}`)
 
-console.log(`myName is typeof ${typeof myName}`)
-console.log(`myName is value ${myName}`)
-console.log(`myAge is typeof ${typeof myName}`)
-console.log(`myHappiness is typeof ${typeof myHappiness}`)
+console.log(`petName is typeof ${typeof petName}`)
+console.log(`petName is value ${petName}`)
+console.log(`petAge is typeof ${typeof petName}`)
+console.log(`myDog is typeof ${typeof myDog}`)
 
-// don't use var
-// if (true) {
-//     const myConst = 43
-//     console.log{myConst}
-// } else {
 
-// }
