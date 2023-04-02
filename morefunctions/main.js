@@ -5,4 +5,7 @@ const updateDOM = (input) => {
     divEl.appendChild(p)
 }
 
-updateDOM(100)
+const travel = (distance, rate, time = 1.5) => distance/rate * time 
+
+updateDOM(travel(60, 2, 10))
+
