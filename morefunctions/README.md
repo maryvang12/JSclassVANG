@@ -1,1 +1,3 @@
 I've been using devTools and it a really a helpful tool for me to inpect the html page and to understand what is going on and what I'm actually doing. It also help me to see better in comparing both from side to side. The easiest way to use devTool is to ctrl, shift, j or i to open the console panel or to see the source of the html page. When inspecting the code, it also help me to idenifty the issues and see the changes that affect the on the application and how fast it performed.
+
+I did not noticed about the update. I was not sure what was it and so I couldn't figure it out and so I continue. I did try miles time by price on the tripcost and it came out with an unexpected large number. In the end, I didn't successed on getting the right answer.
